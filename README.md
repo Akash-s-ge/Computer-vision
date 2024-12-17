@@ -97,9 +97,9 @@ python hand_control.py
 
 ## 🙌 Acknowledgements
 
-- [MediaPipe](https://google.github.io/mediapipe/)
-- [OpenCV](https://opencv.org/)
-- [PyCaw](https://github.com/AndreMiras/pycaw)
+- [MediaPipe]([https://google.github.io/mediapipe/](https://learnopencv.com/introduction-to-mediapipe/))
+- [OpenCV]([https://opencv.org/](https://opencv.org/))
+- [PyCaw]([https://github.com/AndreMiras/pycaw](https://pycaw.readthedocs.io/en/latest/))
 
 ---
 
